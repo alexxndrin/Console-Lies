@@ -1,6 +1,6 @@
 # Console-Lies    
 
 
-dialogs.md - содержит все диалоги из игры    
-scenario.md - сюжет игры    
-test.md - тестирование игры     
+* `dialogs.md` - содержит все диалоги из игры    
+* `scenario.md` - сюжет игры    
+* `test.md` - тестирование игры     
